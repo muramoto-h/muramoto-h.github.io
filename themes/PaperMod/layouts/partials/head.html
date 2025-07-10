@@ -95,8 +95,8 @@
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.Params.assets.favicon32x32 | default "favicon-32x32.png" | absURL }}">
 <link rel="apple-touch-icon" href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}">
 <link rel="mask-icon" href="{{ site.Params.assets.safari_pinned_tab | default "safari-pinned-tab.svg" | absURL }}">
-<meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">
-<meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
+<meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#639ab3" }}">
+<meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#639ab3" }}">
 
 {{- /* RSS */}}
 {{ range .AlternativeOutputFormats -}}
@@ -150,8 +150,8 @@
 
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
-{{- partial "google_analytics.html" . }}
-{{- partial "templates/opengraph.html" . }}
-{{- partial "templates/twitter_cards.html" . }}
-{{- partial "templates/schema_json.html" . }}
+{{- template "_internal/google_analytics.html" . }}
+{{- template "partials/templates/opengraph.html" . }}
+{{- template "partials/templates/twitter_cards.html" . }}
+{{- template "partials/templates/schema_json.html" . }}
 {{- end -}}
