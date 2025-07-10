@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Hugo Muramoto
-          subtitle: "Greetings! \n\n I'm a **MSc student in Economics** at [Sao Paulo School of Economics](https://economics-sp.fgv.br/), Brazil. \n\n I'm particularly interested in Macroeconomics, Forecasting and International Trade. \n\n When I'm not in economist and researcher mode, you can usually find me out for a walk in the park, trying out new food spots, or watching anime, series and movies. I also enjoy studying languages, or sometimes just having a quiet day at home."
+          subtitle: "Greetings! <br><br> I'm a **MSc student in Economics** at [Sao Paulo School of Economics](https://economics-sp.fgv.br/), Brazil. <br><br> I'm particularly interested in Macroeconomics, Forecasting and International Trade. <br><br> When I'm not in economist and researcher mode, you can usually find me out for a walk in the park, trying out new food spots, or watching anime, series and movies. I also enjoy studying languages, or sometimes just having a quiet day at home."
           imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
