@@ -56,14 +56,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-        - name: About me
-          url: /
-        - name: Research
-          url: research/ 
-        - name: Teaching
-          url: teaching/
-        - name: CV
-          url: CV_HugoMuramoto.pdf
+            - name: About me
+              url: /
+            - name: Research
+              url: research/ 
+            - name: Teaching
+              url: teaching/
+            - name: CV
+              url: CV_HugoMuramoto.pdf
 
     socialIcons:
         - name: CV
