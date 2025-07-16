@@ -15,7 +15,6 @@ description: "Teaching experience."
     Period: 🚧🏗️👷‍♂️, 2026<br>
     Prof.: PhD 🚧🏗️👷‍♂️
 
-<br>
 #### Instituto Brasileiro de Mercados de Capitais (IBMEC SP)
 
 * **Macroeconomics III** (Undergraduate) <br>
