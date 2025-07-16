@@ -11,7 +11,7 @@ description: "Teaching experience."
 
 #### São Paulo School of Economics (FGV EESP)
 
-* **🚧🏗️👷‍♂️ (Graduate)**<br>
+* **🚧🏗️👷‍♂️** (Graduate)<br>
     Period: 🚧🏗️👷‍♂️, 2026<br>
     Prof.: PhD 🚧🏗️👷‍♂️
 
@@ -23,15 +23,15 @@ description: "Teaching experience."
 
 <br>
 
-* **Statistics II** (Undergraduate)<br>
-    Period: Mar. - Jun., 2022<br>
-    Prof.: [MSc Salvatore Benito Virgillito](http://lattes.cnpq.br/0760938413146792)
-
-<br>
-
 * **Calculus II** (Undergraduate)<br>
     Period: Aug. - Nov., 2022<br>
     Prof.: [MSc Paulo Takashi Taneda](http://lattes.cnpq.br/6414407890543234)
+
+<br>
+
+* **Statistics II** (Undergraduate)<br>
+    Period: Mar. - Jun., 2022<br>
+    Prof.: [MSc Salvatore Benito Virgillito](http://lattes.cnpq.br/0760938413146792)
 
 <br>
 
